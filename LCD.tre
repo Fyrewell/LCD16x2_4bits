@@ -1,0 +1,30 @@
+ÀÄLCD
+   ÀÄmain  0/106  Ram=0
+      ÃÄ??0??
+      ÃÄlcd_inicia  0/59  Ram=0
+      ³  ÃÄ@delay_ms1  0/21  Ram=1
+      ³  ÃÄ@delay_ms1  0/21  Ram=1
+      ³  ÃÄlcd_comandos  0/112  Ram=2
+      ³  ³  ÀÄ@delay_ms1  0/21  Ram=1
+      ³  ÃÄlcd_comandos  0/112  Ram=2
+      ³  ³  ÀÄ@delay_ms1  0/21  Ram=1
+      ³  ÃÄlcd_comandos  0/112  Ram=2
+      ³  ³  ÀÄ@delay_ms1  0/21  Ram=1
+      ³  ÃÄlcd_comandos  0/112  Ram=2
+      ³  ³  ÀÄ@delay_ms1  0/21  Ram=1
+      ³  ÃÄlcd_comandos  0/112  Ram=2
+      ³  ³  ÀÄ@delay_ms1  0/21  Ram=1
+      ³  ÀÄ@delay_ms1  0/21  Ram=1
+      ÃÄlcd_comandos  0/112  Ram=2
+      ³  ÀÄ@delay_ms1  0/21  Ram=1
+      ÃÄlcd_dados  0/109  Ram=2
+      ÃÄlcd_dados  0/109  Ram=2
+      ÃÄlcd_dados  0/109  Ram=2
+      ÃÄlcd_dados  0/109  Ram=2
+      ÃÄlcd_dados  0/109  Ram=2
+      ÃÄlcd_dados  0/109  Ram=2
+      ÃÄlcd_dados  0/109  Ram=2
+      ÃÄlcd_dados  0/109  Ram=2
+      ÃÄlcd_comandos  0/112  Ram=2
+      ³  ÀÄ@delay_ms1  0/21  Ram=1
+      ÀÄlcd_dados  0/109  Ram=2

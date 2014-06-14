@@ -1,0 +1,49 @@
+
+ROM used: 411 (5%)
+          411 (5%) including unused fragments
+
+          1 Average locations per line
+          4 Average locations per statement
+
+RAM used: 6 (2%) at main() level
+          8 (2%) worst case
+
+Stack used: 3 worst case (out of 8 total available)
+
+Lines Stmts  %   Files
+----- ----- ---  -----
+  183   114 100  LCD.c
+  331     0   0  ..\..\..\..\Program Files (x86)\PICC\devices\16F877A.h
+----- -----
+  514   114 Total
+
+Page ROM  %  RAM   Vol Diff  Functions:
+---- --- --- ---   --- ----  ----------
+0     21   5   1             @delay_ms1
+0    106  26   0   575  2.8  main
+0    112  27   2  1169  3.4  lcd_comandos
+0    109  27   2  1137  3.4  lcd_dados
+0     59  14   0   352  1.4  lcd_inicia
+
+Program metrics:
+    Functions               4
+    Statements              114
+    Comments                120
+    Volume (V)              4229
+    Difficilty (D)          11.0
+    Effort to implement (E) 46661
+    Time to implement (T)   43 minutes
+    Est Delivered Bugs (B)  0
+    Cyclomatic Complexity   16
+    Maintainability (MI)    120
+
+ Segment     Used  Free
+-----------  ----  ----
+00000-00003     4  0  
+00004-007FF   407  1637  
+00800-00FFF     0  2048  
+01000-017FF     0  2048  
+01800-01FFF     0  2048  
+
+
+
